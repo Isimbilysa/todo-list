@@ -8,7 +8,7 @@ import Work from './components/Work'
 function App() {
   
   return (
-    <div className='bg-black m-10 rounded-lg'>
+    <div className='bg-black m-4 rounded-lg'>
       <Navbar/>
       <HomeSection/>
       <Work/>
